@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="./style.css">
+    <link
+        href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA4+ApAPpELwD///8AR0f/AO2fZABlIdsAC7LbAGP39QCHkf8AForEALTf+gAAALUAWff1AAAAAAAAAAAAAAozOjMTIAAADKqlMxMgAAAMZkVREgAAAADGqqogAAAAAKqZkAAAAAAAmbAAAAAADAmwuwmZmaAMurALu7u7oAy6sJsLC6oAAMsACQkJAAAAxmYAAAAAAAAMZGYAAAAAAADERmeDwAAAAAzERNTAAAAAAAzMzAAAAAAAAAAAAADgBwAA4AcAAOAPAADwHwAA4AcAAMADAACAAQAAgAEAAIADAADADwAAwAEAAOADAADwBwAA+AcAAP4PAAD//wAA"
+        rel="icon" type="image/x-icon" />
+
+</head>
+
+<body>
+
+
+    <header>
+        <img src="logo-branco.png" alt="Logo-Barbearia-Alura">
+        <ul class="nav">
+            <li><a href="#titulo1">Home</a></li>
+            <li><a href="#titulo2">Serviços</a></li>
+            <li><a href="#titulo3">Sobre</a></li>
+            <li><a href="#titulo4">Contato</a></li>
+        </ul>
+    </header>
+
+    <section class="home" id="titulo1">
+        <H1>Barbearia Alura</H1>
+        <video autoplay loop muted plays-inline class="back_video">
+            <source src="1.mp4" type="video/mp4">
+        </video>
+    </section>
+
+    <main>
+        <section class="servicos" id="titulo2">
+
+            <h2>Serviços</h2>
+
+            <ul class="produtos">
+
+                <li>
+                    <h3>Cabelo</h3>
+                    <br>
+                    <img src="cabelo.jpg" alt="imagem-cabelo">
+                    <br>
+                    <p class="produto_descricao">Na tesoura ou máquina, como o cliente preferir</p>
+                    <br>
+                    <p class="produto_preco">R$ 25,00</p>
+                </li>
+                <li>
+                    <h3>Barba</h3>
+                    <br>
+                    <img src="barba.jpg" alt="imagem-barba">
+                    <br>
+                    <p class="produto_descricao">Corte e desenho profissional de barba</p>
+                    <br>
+                    <p class="produto_preco">R$ 18,00</p>
+                </li>
+                <li>
+                    <h3>Cabelo + Barba</h3>
+                    <br>
+                    <img src="cabelo+barba.jpg" alt="imagem-cabelobarba">
+                    <br>
+                    <p class="produto_descricao">Pacote completo de cabelo e barba</p>
+                    <br>
+                    <p class="produto_preco">R$ 35,00</p>
+                </li>
+            </ul>
+        </section>
+        <section class="sobre" id="titulo3">
+            <h2>Sobre</h2>
+
+            <div class="divsobre">
+                <img src="banner.jpg" alt="banner">
+
+                <p id="missao"><em>Nossa missão é: <i>"Proporcionar auto-estima e qualidade de vida aos
+                            clientes"</i>.</em></p>
+
+                <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. <br> O atendimento
+                    possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+            </div>
+
+            <h2>Benefícios</h2>
+
+            <div class="beneficios">
+
+                <img src="beneficios.jpg" alt="imagem-beneficios">
+                <ul class="lista_beneficios">
+                    <li class="itens">Atendimento aos Clientes</li>
+                    <li class="itens">Espaço diferenciado</li>
+                    <li class="itens">Localização</li>
+                    <li class="itens">Profissionais Qualificados</li>
+                    <li class="itens">Pontualidade</li>
+                    <li class="itens">Limpeza</li>
+                </ul>
+            </div>
+        </section>
+
+
+        <section class="contato" id="titulo4">
+            <h2>Contato</h2>
+            <div class="formulario">
+                <form>
+                    <label for="nomesobrenome" class="labelcontato">Nome e Sobrenome</label>
+                    <input type="text" id="nomesobrenome" class="input_padrao" placeholder="seu nome" required>
+
+                    <label for="email" class="labelcontato">Email</label>
+                    <input type="email" name="" id="email" class="input_padrao" placeholder="seuemail@dominio.com"
+                        required>
+
+                    <label for="telefone" class="labelcontato">Telefone</label>
+                    <input type="tel" name="" id="telefone" class="input_padrao" placeholder="(XX) XXXXX-XXXX">
+
+                    <label for="mensagem" class="labelcontato">Mensagem</label>
+                    <textarea name="" id="mensagem" cols="55" rows="10" class="input_padrao" required
+                        placeholder="Digite sua mensagem aqui"></textarea>
+
+                    <fieldset class="radiocontato">
+                        <legend>Como prefere nosso contato?</legend>
+                        <div class="radios">
+                            <label for="radio_email"><input type="radio" name="contato" id="radio_email" value="email"
+                                    placeholder=".">Email</label>
+
+                            <label for="radio_telefone"><input type="radio" name="contato" id="radio_telefone"
+                                    value="telefone" placeholder=".">Telefone</label>
+
+                            <label for="radio_whatsapp"><input type="radio" name="contato" id="radio_whatsapp"
+                                    value="whatsapp" placeholder=".">Whatsapp</label>
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Qual horario prefere ser atendido?</legend>
+
+                        <select class="selector">
+                            <option value="manha">Manhã</option>
+                            <option value="tarde">Tarde</option>
+                            <option value="noite">Noite</option>
+                        </select>
+                    </fieldset>
+                    <fieldset>
+                        <label for="checkbox">Gostaria de receber nossas <br> novidades pelo email?</label>
+                        <input type="checkbox" name="" id="checkbox" placeholder=".">
+                    </fieldset>
+                    <input type="submit" value="Enviar Formulario" class="enviar">
+                </form>
+            </div>
+            <table>
+                <tr>
+                    <td>Dia</td>
+                    <td>Horário</td>
+                </tr>
+                <tr>
+                    <td>Segunda</td>
+                    <td>8h ~ 20h</td>
+                </tr>
+                <tr>
+                    <td>Quarta</td>
+                    <td>8h ~ 20h</td>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>8h ~ 20h</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="localização">
+
+            <h2>localização</h2>
+
+            <p>Localizada no coração da cidade a <span>Barbearia Alura</span> traz para o mercado o que há de melhor
+                para o seu cabelo e barba. <br>
+                Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+            <iframe class="mapa"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64206254.60206767!2d-59.845883929901646!3d10.823646846278804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59541c6c79c3%3A0x36b90a85f0f8cb33!2sGrupo%20Alura!5e0!3m2!1sen!2sbr!4v1675647484384!5m2!1sen!2sbr"
+                width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+
+
+
+    </main>
+
+    <footer>
+        <img src="logo-branco.png" alt="logo-branco-barbearia">
+        <p>© Copyright Barbearia Alura - 2023</p>
+        <br>
+        <p>Made By Halysson Franca <a href="https://github.com/haly-dev"><img src="github-mark-white.png"
+                    alt="github-image"></a></p>
+    </footer>
+
+</body>
+
+</html>
