@@ -29,6 +29,13 @@ span{
     color: red;
 } 
 
+.red{
+    color: red;
+    font-family: 'sans-serif'
+}
+
+
+
 header > img {
     width: 9rem;
 }
