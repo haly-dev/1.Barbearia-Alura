@@ -34,8 +34,6 @@ span{
     font-family: 'sans-serif'
 }
 
-
-
 header > img {
     width: 9rem;
 }
@@ -296,8 +294,23 @@ table{
 }
 
 table td{
-
     border: 0.1rem white solid;
+}
+
+.radiocontato{
+    border: 1px white solid;
+    border-radius: 1rem;
+}
+
+.horario{
+    border: 1px white solid;
+    border-radius: 1rem;
+}
+
+.checkboxemail{
+    border: 1px white solid;
+    border-radius: 1rem;
+    margin-top: 0.5rem;
 }
 
 .localização{
@@ -322,7 +335,7 @@ table td{
 footer{
     display: block;
     text-align: center;
-    background-image: url("bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-repeat: repeat;
     padding: 2rem;
     z-index: +1;
