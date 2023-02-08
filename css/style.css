@@ -243,23 +243,7 @@ form{
     text-align: center;
 }
 
-.localização{
-    background-color: rgba(0, 0, 0, 0.800);
-    width: 100%;
-    height: 70vh;
-    color: white;
-    display: block;
-    border: 0.1rem solid white;
-}
 
-.localização h2{
-    text-shadow: navy 3px 0 10px;
-    padding-bottom: 4rem;
-    padding-top: 3rem;
-    text-align: center;
-    width: 100%;
-    color: white;
-}
 
 .enviar{
     padding: 1rem 5rem;
@@ -316,10 +300,27 @@ table td{
     margin-top: 0.5rem;
 }
 
-.localização{
-    display: block;
-    position: relative;
+.localizacao{
+    background-color: rgba(0, 0, 0, 0.800);
+    width: 100%;
+    height: 70vh;
     text-align: center;
+    color: white;
+    display: block;
+    border: 0.1rem solid white;
+}
+
+.localizacao h2{
+    text-shadow: navy 3px 0 10px;
+    padding-bottom: 4rem;
+    padding-top: 3rem;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+.localizacao p{
+    padding-bottom: 3rem;
 }
 
 .mapa{
@@ -329,10 +330,6 @@ table td{
     align-items: center;
     width: 45rem;
     border-radius: 20rem;
-}
-
-.localização p{
-    padding-bottom: 3rem;
 }
 
 footer{
