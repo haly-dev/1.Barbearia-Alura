@@ -7,8 +7,6 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 - [Visão Geral](#Visão-Geral)
   - [O Desafio](#O-Desafio)
-  - [Captura de Tela](#Captura-de-Tela)
-  - [Links](#links)
 - [Meu Processo](#Meu-Processo)
   - [Construído com](#Construído-com)
   - [O que aprendi](#O-i-learned)
@@ -21,13 +19,10 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 Desenvolver uma página de serviços (Barbearia Alura):
 
-- no curso o professor da uma pagina com muitas áreas para fazer, dentre elas, Menu, Rodapé, Links, imagens, video, tabelas, botões dentre outros como mostra o gif:
+- No curso o professor da uma pagina com muitas áreas para fazer, dentre elas, Menu, Rodapé, Links, imagens, video, tabelas, botões dentre outros como mostra o gif da pagina que ele fez e ensinou:
+- Vercel: [Verifique a página publicada](https://desenvolve-gb.vercel.app/)
 
 <img src="./vid/tarefa.gif" alt="imagem-tarefa">
-
-### Links
-
-- Vercel: [Verifique a página publicada](https://desenvolve-gb.vercel.app/)
 
 ## Meu Processo
 
