@@ -1,4 +1,4 @@
-# DesenvolveGB-Semana1 | Programa Desenvolve GB - Alura 
+# DesenvolveGB-Semana123 | Programa Desenvolve GB - Alura 
 
 Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo Boticário
  
@@ -21,7 +21,7 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 Desenvolver uma página de serviços (Barbearia Alura):
 
-- no curso o professor da uma pagina com muitas áreas para fazer, dentre elas, Menu, Rodapé, Links, imagens, video, tabelas, botões dentre outros como mostra o video:
+- no curso o professor da uma pagina com muitas áreas para fazer, dentre elas, Menu, Rodapé, Links, imagens, video, tabelas, botões dentre outros como mostra o gif:
 
 <img src="./vid/tarefa.gif" alt="imagem-tarefa">
 
@@ -31,7 +31,9 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 ## Meu Processo
 
-- Em vez de varias páginas eu contrui tudo em uma só para o úsuario não ficar pulando de paginas com carregamento e sim carregar tudo em uma só landing page, com todas as funções da pagina do desafio, melhoradas. segue o video:
+- Em vez de varias páginas eu contrui tudo em uma só para o úsuario não ficar pulando de paginas com carregamento e sim carregar tudo em uma só landing page, com todas as funções da pagina do desafio, melhoradas. segue o site github Page:
+
+- <a href="https://haly-dev.github.io/Barbearia-Alura/">https://haly-dev.github.io/Barbearia-Alura/</a>
 
 ## Caracteristicas Futuras:
 
