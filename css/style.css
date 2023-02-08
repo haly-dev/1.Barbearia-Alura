@@ -109,7 +109,7 @@ header > ul {
 
 .servicos h2{
     padding-left: 3.3rem;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
     text-align: center;
     text-shadow: navy 3px 0 10px;
     width: 100%;
@@ -145,11 +145,10 @@ header > ul {
 .sobre{
     background-color: rgba(0, 0, 0, 0.800);
     width: 100%;
-    height: 130vh;
+    height: 190vh;
     color: white;
     display: block;
     border: 0.1rem solid white;
-
 } 
 
 .sobre h2{
@@ -203,7 +202,7 @@ header > ul {
 
 .contato h2{
     text-shadow: navy 3px 0 10px;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
     padding-top: 3rem;
     text-align: center;
     width: 100%;
@@ -301,18 +300,15 @@ table td{
 }
 
 .localizacao{
-    background-color: rgba(0, 0, 0, 0.800);
     width: 100%;
-    height: 70vh;
     text-align: center;
     color: white;
     display: block;
-    border: 0.1rem solid white;
 }
 
 .localizacao h2{
     text-shadow: navy 3px 0 10px;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
     padding-top: 3rem;
     text-align: center;
     width: 100%;
