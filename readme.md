@@ -22,7 +22,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 - No curso o professor da uma pagina com muitas áreas para fazer, dentre elas, Menu, Rodapé, Links, imagens, video, tabelas, botões dentre outros como mostra o gif da pagina que ele fez e ensinou:
 - Vercel: [Verifique a página publicada](https://desenvolve-gb.vercel.app/)
 
-<img src="./vid/tarefa.gif" alt="imagem-tarefa">
+<img src=".assets/videos/tarefa.gif" alt="imagem-tarefa">
 
 ## Meu Processo
 
