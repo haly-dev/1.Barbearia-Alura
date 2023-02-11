@@ -28,6 +28,8 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 - Em vez de varias páginas eu construi tudo em uma só para o úsuario não ficar pulando de paginas com carregamento e sim carregar tudo em uma só landing page, com todas as funções da pagina do desafio, melhoradas e com responsividades para smartphones, tablets e telas FullHD. segue o site github Page e o video da pagina:
 
+- Link github pages : <a href="https://haly-dev.github.io/1.Barbearia-Alura/ ">Github Page!</a>
+
 - https://user-images.githubusercontent.com/107888695/218234325-abbe20c5-5680-417d-a10a-5ade950ad96a.mp4
 
 
