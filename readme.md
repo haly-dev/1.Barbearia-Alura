@@ -32,8 +32,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 
 - https://user-images.githubusercontent.com/107888695/218234325-abbe20c5-5680-417d-a10a-5ade950ad96a.mp4
 
-
-
+- https://user-images.githubusercontent.com/107888695/218821948-852613cc-b49c-4cc8-84d6-bbb3fa1c8f3e.mp4
 
 ### Construído com
 
