@@ -35,7 +35,7 @@ Desenvolver uma página de serviços (Barbearia Alura):
 ### Construído com
 
 - HTML5
-- CSS
+- CSS3
 
 ### O que aprendi
 
